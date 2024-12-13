@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Java",
+        "author": "Hasan",
+        "isbn": 24628,
+        "year": 2023,
+        "price": 250,
+        "quantity": 10,
+        "bookAddedAt": "13-12-2024 23:38:05",
+        "bookLastUpdatedAt": ""
+    }
+]
